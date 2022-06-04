@@ -11,7 +11,7 @@ I mostly use [Vim](https://www.vim.org/) and [Atom](https://atom.io/).
 My long-term goal is to master Rust[currently], Haskell[to-do] and Julia[to-do].
 
 **currently:**
-- re-learning webdev via [The Odin Project](theodinproject.com/)
+- re-learning webdev via [The Odin Project](theodinproject.com/) (Ruby path)
 - learning C/C++ at uni
 - doing some shell scripting and Python automation when bored
 - studying for exams
