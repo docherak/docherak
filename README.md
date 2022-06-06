@@ -18,6 +18,7 @@ My long-term goal is to master Rust[currently], Haskell[to-do] and Julia[to-do].
 - exploring gamedev
 - learning Rust
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=docherak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **docherak/docherak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
