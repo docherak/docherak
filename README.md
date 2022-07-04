@@ -15,8 +15,8 @@ My long-term goal is to master Rust[currently], Haskell[to-do] and Julia[to-do].
 - learning C/C++ at uni
 - doing some shell scripting and Python automation when bored
 - studying for exams
-- exploring gamedev
-- learning Rust
+- exploring gamedev in Unity
+- learning Java, Rust
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=docherak&hide=makefile,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
