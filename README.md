@@ -4,9 +4,10 @@ My name is Tomáš and I'm currently pursuing a bachelor's degree in Mathematica
 
 Besides computer science and mathematics, I'm an avid reader interested in philosophy and linguistics and a gamer.
 
-Also a flâneur, a hacker, an autodidact and an anarchist.
+Also a flâneur, a hacker and an anarchist.
 
 I mostly use [Vim](https://www.vim.org/) and [Atom](https://atom.io/).
+Currently experimenting with [Neovim](https://neovim.io/) and [Helix](https://github.com/helix-editor/helix) (a neovim inspired editor, written in Rust).
 
 My long-term goal is to master Rust[currently], Haskell[to-do] and Julia[to-do].
 
@@ -15,7 +16,7 @@ My long-term goal is to master Rust[currently], Haskell[to-do] and Julia[to-do].
 - learning C/C++ at uni
 - doing some shell scripting and Python automation when bored
 - studying for exams
-- exploring gamedev in Unity
+- exploring gamedev in ~~Unity~~ Godot
 - learning Java, Rust
 
 <!--
