@@ -18,6 +18,7 @@ My long-term goal is to master Rust[currently], Haskell[to-do] and Julia[to-do].
 - studying for exams
 - exploring gamedev in ~~Unity~~ Godot
 - learning Java, Rust
+- learning Dvorak keyboard layout
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=docherak&hide=makefile,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
