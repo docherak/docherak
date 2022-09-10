@@ -12,13 +12,14 @@ Currently experimenting with [Neovim](https://neovim.io/) and [Helix](https://gi
 My long-term goal is to master Rust[currently], Haskell[to-do] and Julia[to-do].
 
 **currently:**
-- re-learning webdev via [The Odin Project](theodinproject.com/) (Ruby path)
+- re-learning webdev via [The Odin Project](https://theodinproject.com/) (Ruby path)
 - learning C/C++ at uni
 - doing some shell scripting and Python automation when bored
 - studying for exams
 - exploring gamedev in ~~Unity~~ Godot
 - learning Java, Rust
 - learning Dvorak keyboard layout
+- learning hacking at [TryHackMe](https://tryhackme.com)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=docherak&hide=makefile,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
