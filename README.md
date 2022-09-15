@@ -1,6 +1,6 @@
 ### $whoami :turtle:
 
-Flâneur, a hacker and an anarchist.
+A flâneur, a hacker and an anarchist.
 
 I mostly use [Vim](https://www.vim.org/) and [Atom](https://atom.io/).
 Currently experimenting with [Neovim](https://neovim.io/) and [Helix](https://github.com/helix-editor/helix) (a neovim inspired editor, written in Rust).
