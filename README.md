@@ -3,13 +3,11 @@
 A flâneur, a hacker and an anarchist.
 
 I mostly use [Vim](https://www.vim.org/) and [Atom](https://atom.io/).
-Currently experimenting with [Neovim](https://neovim.io/) and [Helix](https://github.com/helix-editor/helix) (a neovim inspired editor, written in Rust).
-
-My long-term goal is to master Rust[currently], Haskell[to-do] and Julia[to-do].
+Currently experimenting with [Neovim](https://neovim.io/).
 
 **currently:**
 - re-learning webdev via [The Odin Project](https://theodinproject.com/) (Ruby path)
-- learning C/C++ at uni
+- learning C/C++
 - doing some shell scripting and Python automation when bored
 - exploring gamedev in ~~Unity~~ Godot
 - learning Java, Rust
