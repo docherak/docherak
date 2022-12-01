@@ -5,14 +5,17 @@ A flâneur, a hacker and an anarchist.
 I mostly use [Vim](https://www.vim.org/) and [Atom](https://atom.io/).
 Currently experimenting with [Neovim](https://neovim.io/).
 
-**currently:**
+**currently in my free time:**
+- learning stats
+- reading Dune
+- going through the [OSSU](https://github.com/ossu/computer-science) syllabus
 - re-learning webdev via [The Odin Project](https://theodinproject.com/) (Ruby path)
-- learning C/C++
-- doing some shell scripting and Python automation when bored
-- exploring gamedev in ~~Unity~~ Godot
-- learning Java, Rust
+- some C/C++
+- doing some shell scripting and Python automation
+- experimenting with Rust and Julia
 - learning Dvorak keyboard layout
-- learning hacking at [TryHackMe](https://tryhackme.com)
+- doing some hacking at [TryHackMe](https://tryhackme.com)
+- exploring gamedev in ~~Unity~~ Godot
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=docherak&hide=makefile,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
