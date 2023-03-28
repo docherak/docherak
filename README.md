@@ -1,4 +1,5 @@
-**SLOOOOWLY MOVING TO [GITLAB](https://gitlab.com/docherak)**
+### STATUS:
+***SLOOOOWLY MOVING TO [GITLAB](https://gitlab.com/docherak)***
 
 ### $whoami :turtle:
 
