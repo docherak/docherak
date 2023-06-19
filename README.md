@@ -7,6 +7,9 @@ A flâneur, a hacker and an anarchist.
 
 I mostly use [Neovim](https://neovim.io/).
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6490b103db7de05a7a6f3904?variant=dark)](https://roadmap.sh)
+
+<!--
 **currently in my free time:**
 - learning stats
 - reading Dune (yes, still)
@@ -15,7 +18,7 @@ I mostly use [Neovim](https://neovim.io/).
 - learning Rust, Go, DevOps stuff (Kubernetes)
 - learning Dvorak keyboard layout
 
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=docherak&hide=makefile,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <!--
