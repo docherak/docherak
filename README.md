@@ -1,11 +1,7 @@
 ### STATUS:
 ***SLOOOOWLY MOVING TO [GITLAB](https://gitlab.com/docherak)***
 
-### $whoami :turtle:
-
-A flâneur, a hacker and an anarchist.
-
-I mostly use [Neovim](https://neovim.io/).
+I mostly use [Neovim](https://neovim.io/) btw.
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6490b103db7de05a7a6f3904?variant=dark)](https://roadmap.sh)
 
