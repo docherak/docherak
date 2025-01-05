@@ -1,4 +1,4 @@
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6490b103db7de05a7a6f3904?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/6490b103db7de05a7a6f3904?variant=dark&roadmaps=kubernetes%2Ccomputer-science%2Cdevops)](https://roadmap.sh)
 
 <!--
 
