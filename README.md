@@ -1,5 +1,5 @@
 [![roadmap.sh](https://roadmap.sh/card/wide/6490b103db7de05a7a6f3904?variant=dark&roadmaps=kubernetes%2Ccomputer-science%2Cdevops)](https://roadmap.sh)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=docherak&hide=jupyter%20notebook,cmake,%20javascript,%20css,%20html,%20makefile&layout=donut&theme=tokyonight"/>
 <!--
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=docherak&hide=makefile,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
