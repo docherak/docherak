@@ -1,4 +1,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=docherak&hide=jupyter%20notebook,cmake,%20javascript,%20css,%20html,%20makefile&layout=donut&theme=tokyonight&hide_border=true"/>
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/3e18a751-ee9e-4339-9860-03ba6435ea39/thumbnail" >
+</p>
+
 <!--
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=docherak&hide=makefile,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
