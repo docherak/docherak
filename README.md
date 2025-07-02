@@ -5,8 +5,6 @@
    <img height=200 align="center" src="https://api.boot.dev/v1/users/public/3e18a751-ee9e-4339-9860-03ba6435ea39/thumbnail" >
 </a>
 
-<img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?docherak" alt="docherak's summary card">
-
 <!--
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=docherak&hide=makefile,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
