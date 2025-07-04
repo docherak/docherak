@@ -1,8 +1,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=docherak&hide=jupyter%20notebook,cmake,%20javascript,%20css,%20html,%20makefile&layout=donut&theme=tokyonight&hide_border=true"/>
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=docherak&hide=jupyter%20notebook,cmake,%20javascript,%20css,%20html,%20makefile&layout=donut&theme=tokyonight&hide_border=true&q"/>
 </a>
 <a href="https://www.boot.dev/u/docherak">
-   <img height=150 align="center" src="https://api.boot.dev/v1/users/public/3e18a751-ee9e-4339-9860-03ba6435ea39/thumbnail" >
+   <img height=200 align="center" src="https://api.boot.dev/v1/users/public/3e18a751-ee9e-4339-9860-03ba6435ea39/thumbnail" >
 </a>
 
 <!--
